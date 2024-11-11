@@ -46,6 +46,9 @@ Nous avons utilisé 5-fold cross-validation pour une évaluation rigoureuse des 
 
 Les métriques incluent la précision, le rapport de classification et la matrice de confusion pour chaque modèle testé.
 
+## Données
+Le projet utilise la version réduite du jeu de données RAVDESS qui fournit des enregistrements audio de différentes émotions exprimées par des acteurs. Ce dataset est structuré de manière à représenter des émotions variées sous plusieurs modalités. Vous pouvez obtenir l’ensemble de données RAVDESS [e-ici](https://drive.google.com/file/d/1wWsrN2Ep7x6lWqOXfr4rpKGYrJhWc8z7/view).
+
 ## Prérequis
 
 ### Environnement de developpement
