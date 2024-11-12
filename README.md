@@ -78,7 +78,7 @@ Les bibliothèques nécessaires sont :
 1. Cloner le dépôt :
 
 ```bash
-git clone https://github.com/votre-utilisateur/votre-repo.git
+git clone https://github.com/DavidLUTALA/Application-du-MLPClassifier-pour-la-reconnaissance-des-motions-dans-la-parole.git
 cd votre-repo
 ```
 
