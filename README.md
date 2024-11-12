@@ -79,7 +79,10 @@ Les bibliothèques nécessaires sont :
 
 ```bash
 git clone https://github.com/DavidLUTALA/Application-du-MLPClassifier-pour-la-reconnaissance-des-motions-dans-la-parole.git
-cd votre-repo
+```
+
+```bash
+cd Application-du-MLPClassifier-pour-la-reconnaissance-des-motions-dans-la-parole.git
 ```
 
 2. Installer les dépendances :
