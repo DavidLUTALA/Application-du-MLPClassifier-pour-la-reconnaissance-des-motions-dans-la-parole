@@ -1,0 +1,5 @@
+pip install librosa
+pip install scikit-learn
+pip install xgboost
+pip install numpy
+pip install soundfile
