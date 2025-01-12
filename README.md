@@ -26,7 +26,7 @@ Nous utilisons une fonction extract_feature pour extraire les caractéristiques 
 
 - **MFCC** (Mel Frequency Cepstral Coefficients) : Représente la distribution fréquentielle de puissance à court terme, utile pour capturer des aspects caractéristiques de la voix humaine.
 - **Chroma** : Représente les 12 classes de hauteur de son, indiquant la présence d’une certaine tonalité musicale.
-- **Mel** : Spectrogramme basé sur la fréquence Mel, utile pour l’analyse des intensités de fréquence.
+- **Mel** : Spectrogramme basé sur la fréquence Mel, utile pour l’analyse des intensités de fréquence
 
 ### 2. Préparation des données
 
